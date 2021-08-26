@@ -3,4 +3,4 @@ Meine Tour über die Alpen:
 - Ankunft 4.9. Arco Italien / Gardasee
 
 Updates und Tour-Plan gibt es hier:
-- https://github.com/splosch/transalp_log/issueshttps://github.com/splosch/transalp_log/issues?q=sort%3Acreated-asc
+- https://github.com/splosch/transalp_log/issues?q=sort%3Acreated-asc
