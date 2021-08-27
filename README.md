@@ -1,6 +1,9 @@
 # Leberkäse und dann n Eis
 Meine Tour über die Alpen.
 
+[![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/ih67siNR8cGxQDcu6)
+
+
 ## Tour-Plan und Reiselog:
 - [Aktuell und Plan](https://github.com/splosch/transalp_log/issues?q=sort%3Acreated-asc)
 - [Alles was bereits passiert ist](https://github.com/splosch/transalp_log/issues?q=is%3Aissue+is%3Aclosed)
