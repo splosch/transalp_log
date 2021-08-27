@@ -4,5 +4,6 @@ Die GitHub App ist sehr gut darin Issues zu erstellen und zu managen und Issues 
 Tadaaaa! 
 
 ## To-Do / Features
-- [ ] Custom Badges https://github.com/MichaelCurrin/badge-generator
-- [ ] Maps / Last known location verlinken 
+- [x] Custom Badges https://github.com/MichaelCurrin/badge-generator
+- [x] Maps / Last known location verlinken 
+[![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/ih67siNR8cGxQDcu6)
