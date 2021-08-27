@@ -2,8 +2,8 @@
 Meine Tour über die Alpen.
 
 ## Tour-Plan und Reiselog:
-- https://github.com/splosch/transalp_log/issues?q=sort%3Acreated-asc
-*Statis-Updates sind abhängig von Bock und Empfang*
+- [Klick-hier-its-safe](https://github.com/splosch/transalp_log/issues?q=sort%3Acreated-asc)
+- *Updates bei Bock und Empfang*
 
 ## Was ist geplant, was nicht:
 - 27.8. 05:19 Hannover -> München im ICE
