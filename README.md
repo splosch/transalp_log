@@ -2,7 +2,8 @@
 Meine Tour über die Alpen.
 
 ## Tour-Plan und Reiselog:
-- [Klick-hier-its-safe](https://github.com/splosch/transalp_log/issues?q=sort%3Acreated-asc)
+- [Aktuell und Plan](https://github.com/splosch/transalp_log/issues?q=sort%3Acreated-asc)
+- [Alles was bereits passiert ist](https://github.com/splosch/transalp_log/issues?q=is%3Aissue+is%3Aclosed)
 - *Updates bei Bock und Empfang*
 
 ## Was ist geplant, was nicht:
@@ -13,7 +14,7 @@ Meine Tour über die Alpen.
 
 - Strecke ist geplant, Verlauf & Unterkünfte nicht
 - den GPS-Tracks folge ich weitestgehend, ausser mich lacht ne Detour an
-- Iach fahre bei Tageslicht, ausser die Detour war wirklich geilomat, dann whatever...
+- ich fahre bei Tageslicht, ausser die Detour war wirklich geilomat, dann whatever...
 
 ## Fleisch oder Fisch?
 Es wird gezeltet wenn möglich, schliesslich schlepp ich das Teil nicht nur zur Konditionierung mit.
