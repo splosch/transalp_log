@@ -1,7 +1,7 @@
 # Leberkäse und dann n Eis
 Meine Tour über die Alpen.
 
-[![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/ih67siNR8cGxQDcu6)
+[![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/tHCADUPDQJbHLftMA)
 
 
 ## Tour-Plan und Reiselog incl. Bilder
