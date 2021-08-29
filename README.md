@@ -2,7 +2,7 @@
 Meine Tour über die Alpen.
 
 [![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/tHCADUPDQJbHLftMA)
-
+(Kann man anklicken 😋)
 
 ## Tour-Plan und Reiselog incl. Bilder
 - [Aktuell und Plan](https://github.com/splosch/transalp_log/issues?q=sort%3Acreated-asc)
@@ -20,7 +20,7 @@ Meine Tour über die Alpen.
 - ich fahre bei Tageslicht, ausser die Detour war wirklich geilomat, dann whatever...
 
 ## Fleisch oder Fisch?
-Es wird gezeltet wenn möglich, schliesslich schlepp ich das Teil nicht nur zur Konditionierung mit.
+~~Es wird gezeltet wenn möglich, schliesslich~~ schlepp ~~ich~~ das Teil *wetterbedingt* ~~nicht~~ nur zur Konditionierung mit.
 Sollte es ein Tag im Regen werden, gönn ich mir aber sicher ne Ausnahme.
 Zeltplatz wäre geil schon wegen der Dusche, aber ich nehm auch ne Lichtung mit Fluss.
 Lecker essen & Siesta.
